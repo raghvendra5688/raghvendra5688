@@ -5,9 +5,9 @@
 With 14+ years of experience in data science, complex networks, and computational biology, I specialize in providing data-driven solutions across diverse domains like healthcare, life sciences, materials science, and enterprise AI. My passion is translating advanced research into real-world impact.
 
 - **IEEE Senior Member** | **IEEE CS Top 30 Early Career Professional**
-- **100+ peer-reviewed articles** (h-index: 34) in top-tier journals (TNNLS, Pattern Recognition Letters, Nature Medicine, Cell, Science Immunology, and more)
+- **100+ peer-reviewed articles** (h-index: 35) in top-tier journals (TNNLS, Pattern Recognition Letters, Nature Medicine, Nature, Cell, Science Immunology, and more)
 - **17+ ML tools** designed & deployed for actionable insights from big data
-- **DREAM Challenge wins** | **Kaggle Top 10% finisher** | **International partnerships & cross-disciplinary leadership**
+- **DREAM Challenge wins** | **Kaggle Top 3% finisher** | **International partnerships & cross-disciplinary leadership**
 
 ---
 
