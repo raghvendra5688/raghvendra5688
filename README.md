@@ -35,10 +35,9 @@ With 14+ years of experience in data science, complex networks, and computationa
 
 ## 🚀 Featured Projects
 
-- [PT-AML: Prognostic Tool for AML](https://github.com/raghvendra5688/PT-AML)
+- [Predict-AML: Prognostic Tool for AML](https://github.com/raghvendra5688/PT-AML2.0)
 - [Drug Repurposing](https://github.com/raghvendra5688/Drug-Repurposing)
 - [Harry Potter Book Writing via Multi-Agents](https://github.com/raghvendra5688/Harry-Potter-Book-Writing-via-Multi-Agents)
-- [LLM Based News Classifier](https://github.com/raghvendra5688/news_classifier_llm)
 
 ---
 
