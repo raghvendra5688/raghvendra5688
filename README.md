@@ -1,6 +1,6 @@
 # Hi, I’m Raghvendra Mall! 👋
 
-### 🧬 Machine Learning Researcher | IEEE Senior Member | Computational Biology Leader
+### 🧬 Applied AI | IEEE Senior Member | Computational Biology Leader
 
 With 15+ years of experience in data science, complex networks, and computational biology, I specialize in providing data-driven solutions across diverse domains like healthcare, life sciences, materials science, and enterprise AI. My passion is translating advanced research into real-world impact.
 
