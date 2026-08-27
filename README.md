@@ -2,11 +2,11 @@
 
 ### 🧬 Machine Learning Researcher | IEEE Senior Member | Computational Biology Leader
 
-With 14+ years of experience in data science, complex networks, and computational biology, I specialize in providing data-driven solutions across diverse domains like healthcare, life sciences, materials science, and enterprise AI. My passion is translating advanced research into real-world impact.
+With 15+ years of experience in data science, complex networks, and computational biology, I specialize in providing data-driven solutions across diverse domains like healthcare, life sciences, materials science, and enterprise AI. My passion is translating advanced research into real-world impact.
 
 - **IEEE Senior Member** | **IEEE CS Top 30 Early Career Professional**
-- **100+ peer-reviewed articles** (h-index: 35) in top-tier journals (TNNLS, Pattern Recognition Letters, Nature Medicine, Nature, Cell, Science Immunology, and more)
-- **17+ ML tools** designed & deployed for actionable insights from big data
+- **100+ peer-reviewed articles** (h-index: 39) in top-tier journals (TNNLS, Pattern Recognition Letters, Nature Medicine, Nature, Cell, Science Immunology, and more)
+- **19+ ML tools** designed & deployed for actionable insights from big data
 - **DREAM Challenge wins** | **Kaggle Top 3% finisher** | **International partnerships & cross-disciplinary leadership**
 
 ---
@@ -53,7 +53,7 @@ With 14+ years of experience in data science, complex networks, and computationa
 
 ---
 
-> “Passionate about pushing the boundaries of machine learning and computational biology for societal benefit.”
+> “Passionate about pushing the boundaries of AI x Bio for societal benefit.”
 
 **Open to advisory/consulting roles — especially in generative AI and life sciences. Let’s build something impactful!**
 
