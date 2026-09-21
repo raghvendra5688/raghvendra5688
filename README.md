@@ -14,7 +14,7 @@ With 15+ years of experience in data science, complex networks, and computationa
 ## 🔬 Core Competencies
 
 - **Leadership:** Team Building | Budget & KPI Management | Stakeholder Communication
-- **Deep Learning:** CNN, LSTM, GNN, LLM Fine-tuning (LoRA, LoftQ, RAG, Multi-modality, SFT)
+- **Deep Learning:** Transformers, CNN, LSTM, GNN, TabPFN, LLM Fine-tuning (LoRA, LoftQ, RAG, Multi-modality, SFT)
 - **AI Libraries:** PyTorch, HuggingFace, PyG, scikit-learn, H2O, CrewAI, LangChain, Gradio, Streamlit
 - **Computational Biology:** Regulatory genomics, network analysis, disease module identification
 - **NGS Analysis:** RNA-Seq, single-cell multiomics, spatial transcriptomics, immunomics, metagenomics
@@ -27,7 +27,7 @@ With 15+ years of experience in data science, complex networks, and computationa
 ## 💡 Skills & Tech
 
 - **Network Analysis:** Pagerank, community detection, Cytoscape, Gephi, ggraph
-- **LLMs:** LLAMA, GPT, Qwen (local & API)
+- **LLMs:** Claude CLI, LLAMA, GPT, Qwen (local & API)
 - **Programming:** Python, R, C++
 - **Environments:** AWS, GCP, HPC (LSF), Docker
 
